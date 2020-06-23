@@ -8,21 +8,17 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 * The terms
 
  
-<img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/term.png" width="75%" height="75%" />
+<img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DFP_persp.jpg" width="100%" height="100%" />
 
 
-* The voltage divider on the lines
+* DFP CC pins terminations
  
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec.png" width="75%" height="75%" />
- 
-* The low, full, and high speed device connection
-
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec_1.png" width="75%" height="75%" />
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DFP_CC.jpg" width="100%" height="100%" />
 
 
-* The initialization of a high-speed device 
+* The voltage on UFP CC pins
 
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_high_speed.png" width="90%" height="90%" />
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/UFP_CC.jpg" width="100%" height="100%" />
 
 ## Result
 

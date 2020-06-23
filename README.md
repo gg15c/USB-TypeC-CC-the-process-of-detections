@@ -35,7 +35,9 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 
 ## A passive Type-C cable (Type-C to Type-A)
 
-111
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/typeC_to_typeA.png" width="75%" height="75%" />
+
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/typeC_to_typeA_unplung.png" width="75%" height="75%" />
 
 
 

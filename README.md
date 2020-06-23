@@ -1,9 +1,9 @@
 # USB-TypeC-CC-the-process-of-detections
 
 ## Introduction
-USB type-C is widely used in modern technology. This note provides a basic process of the CC pins, having two cables to show the electrical signal.
+USB Type-C is widely used in modern technology. This brief note provides a basic process of the CC pins, and we have used a passive, a active, and a PD cable to show the electrical signal.
  
-## USB 2.0 spec 
+## USB Type-C spec 
 
 * The terms
 

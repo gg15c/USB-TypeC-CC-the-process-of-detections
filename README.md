@@ -7,8 +7,7 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 
 * The terms
 
- 
-<img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DFP_persp.jpg" width="100%" height="100%" />
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DFP_persp.jpg" width="100%" height="100%" />
 
 
 * DFP CC pins terminations
@@ -19,6 +18,29 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 * The voltage on UFP CC pins
 
  <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/UFP_CC.jpg" width="100%" height="100%" />
+
+* The DPF/UFP model
+
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DFP_UFP_model.jpg" width="100%" height="100%" />
+
+
+* The DRP model
+
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/DRP_Model.jpg" width="100%" height="100%" />
+
+* The CC pin cable model
+
+ <img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/CC_pin_cable_model.jpg" width="100%" height="100%" />
+
+
+
+
+
+
+
+
+
+
 
 ## Result
 

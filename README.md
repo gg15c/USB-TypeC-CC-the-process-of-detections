@@ -35,7 +35,7 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 
 ## A passive Type-C cable (Type-C to Type-A)
 
-
+111
 
 
 

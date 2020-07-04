@@ -1,7 +1,7 @@
 # USB-TypeC-CC-the-process-of-detections
 
 ## Introduction
-USB Type-C is widely used in modern technology. This brief note provides a basic process of the CC pins, and we have used a passive, a active, and a PD cable to show the electrical signal.
+USB Type-C is widely used in modern technology. This brief note provides a basic process of the CC pins, and we have used a passive, an active, and a PD cable to show the electrical signal.
  
 ## USB Type-C spec 
 
@@ -53,4 +53,8 @@ How to distinguish a high-speed device or a full-speed device?
 
 
 ## Reference
-* https://www.usb.org/document-library/usb-20-specification
+* http://kevinzhengwork.blogspot.com/2014/08/usb-type-c-configuration-channel-cc-pin.html
+
+* https://www.microtest.com.tw/upload/download/USB-C%20introduction_ch.pdf
+
+* https://www.usb.org/sites/default/files/D2T1-4%20-%20VESA%20DP%20Alt%20Mode%20over%20USB%20Type-C.pdf

@@ -42,13 +42,26 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 
 ## An active Type-C cable (Type-C to DisplayPort)
 
+<img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/typeC_to_DP.png" width="75%" height="75%" />
+
+<img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/typeC_to_DP_SBU.png" width="75%" height="75%" />
+
+
 ## An active Type-C cable (Type-C to PD charger)
+
+<img src="https://raw.githubusercontent.com/gg15c/USB-TypeC-CC-the-process-of-detections/master/Img/typeC_to_PD.png" width="75%" height="75%" />
+
 
 ## Miscellaneous points
 
-How to distinguish a high-speed device or a full-speed device?
+Q. What is the function of Ra?
 
-=> Both of them pull a resistor on D+ line, but the high-speed device will generate a signal on the D- to notify the host.
+A. The Ra allows the DFP to recognize the existence and orientation of a powered Type-C cable. For example, a mux or a redrive IC which was placed in the cable should connect to a power source, VCONN.
+
+Q. What is the function of VCONN?
+
+A. For example, a mux or a redrive IC which was placed in the cable should connect to a power source, VCONN.
+
 
 
 

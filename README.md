@@ -56,7 +56,7 @@ USB Type-C is widely used in modern technology. This brief note provides a basic
 
 Q. What is the function of Ra?
 
-A. The Ra allows the DFP to recognize the existence and orientation of a powered Type-C cable. For example, a mux or a redrive IC which was placed in the cable should connect to a power source, VCONN.
+A. The Ra allows the DFP to recognize the existence and orientation of a powered Type-C cable.
 
 Q. What is the function of VCONN?
 
